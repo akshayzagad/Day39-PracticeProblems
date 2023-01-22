@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "christian-kohler.npm-intellisense",
+        "otris-software.vscode-janus-debug"
+    ]
+}
